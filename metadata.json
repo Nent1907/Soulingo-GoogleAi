@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Soulingo",
+  "description": "Yapay zeka destekli İngilizce telaffuz ve avatar öğrenme asistanı.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
